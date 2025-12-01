@@ -62,9 +62,7 @@ namespace University.Controllers
 
             await _context.SaveChangesAsync();
 
-            TempData["Success"] = "تم ربط الطالب بالكورسات والروم بنجاح!";
-            return RedirectToAction(nameof(GetCourses));
-
+            return RedirectToAction("Index", "Home");
         }
         #endregion
     }

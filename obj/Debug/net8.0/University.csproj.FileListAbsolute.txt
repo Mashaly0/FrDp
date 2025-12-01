@@ -1892,3 +1892,4 @@ F:\ClientRequests\ProjectClient1\University\obj\Debug\net8.0\refint\University.d
 F:\ClientRequests\ProjectClient1\University\obj\Debug\net8.0\University.pdb
 F:\ClientRequests\ProjectClient1\University\obj\Debug\net8.0\University.genruntimeconfig.cache
 F:\ClientRequests\ProjectClient1\University\obj\Debug\net8.0\ref\University.dll
+F:\ClientRequests\ProjectClient1\University\obj\Debug\net8.0\University.sourcelink.json
